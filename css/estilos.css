@@ -1,0 +1,18 @@
+h2{
+	
+	color: red;
+	
+}
+
+.contenido{
+	
+	
+	max-width: 1000px;
+	height: 100px;
+	margin: 50px auto;
+	padding: 50px auto;
+	align-content: center;
+	justify-content: center;
+	overflow: hidden;
+	background-color: #1e1c21;
+}
